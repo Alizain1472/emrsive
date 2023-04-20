@@ -21,6 +21,10 @@ export default ({ navigation }) => {
           style={styles.tinyLogo}
           source={{ uri: 'https://eu6vpnsdhno.exactdn.com/wp-content/uploads/2022/09/Emrsive_logo-6-300x110.png?strip=all&lossy=1&ssl=1' }}
         />
+
+
+
+        
       </View>
 
       <View style={{ flex: 2, alignItems: "center" }}>
